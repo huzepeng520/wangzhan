@@ -1,0 +1,262 @@
+body{
+    margin:0;
+}
+.swiper-container{
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.page1{
+    width:100vw;
+    height:100vh;
+    background:url(../images/1bg.png);
+    background-size:cover;
+    position: relative;
+}
+
+.page1 .logo{
+   width:1.07rem;
+   height:0.54rem;
+   background:url(../images/1.png);
+   background-size:cover;
+   position: absolute;
+   left:0.29rem;
+   top:0.29rem;
+}
+
+.page1 .img1{
+    width:5.62rem;
+    height:1.8rem;
+    background:url(../images/2.png);
+    background-size:cover;
+    position: absolute;
+    left:1rem;
+    top:1.86rem; 
+}
+
+.page1 .line{
+    width:.68rem;
+    height:.05rem;
+    background:#fff;
+    position: absolute;
+    left:1.05rem;
+    top:4.02rem;
+}
+
+.page1 .img2{
+    width:4.86rem;
+    height:.77rem;
+    background:url(../images/4.png);
+    background-size:cover;
+    position: absolute;
+    left:1.07rem;
+    top:4.32rem;
+}
+
+.page1 .img3{
+    width:1.42rem;
+    height:.44rem;
+    background:url(../images/5.png);
+    background-size:cover;
+    position: absolute;
+    left:0.29rem;
+    top:5.81rem;
+}
+
+.page1 .content{
+    width:6.9rem;
+    height:3.5rem;
+    background:rgba(39,39,39,.7);
+    border-radius:.05rem;
+    position: absolute;
+    left:.29rem;
+    top:6.62rem;
+    color:#fff;
+    font-size:.24rem;
+    padding:.45rem;
+    box-sizing: border-box;
+}
+
+.page2{
+    width:100vw;
+    height:100vh;
+    /* background:blue; */
+}
+.page2_image1{
+    width:115px;
+    height: 58px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 30px;
+    background-image: url(../images/诺阿logo-2@3x.png);
+
+}
+.page2_image2{
+    width: 100vw;
+    height: 40vh;
+    background-image: url(../images/nik-macmillan-UmWW77lYEcA-unsplash@2x.png);
+
+}
+.page2_image3{
+    width: 308px;
+    height: 33px;
+    background-image: url(../images/business@2x.png);
+    float: right;
+    margin-top: -150px;
+    margin-right: -5px;
+}
+.page2_image4{
+    width:308px ;
+    height: 33px;
+    background-image: url(../images/and@2x.png);
+    float: right;
+    margin-top: -110px;
+    margin-right: -5px;
+}
+.page2_image5{
+    width: 100px;
+    height: 150px;
+    background-image: url(../images/矩形\ 38@3x.png);
+    float: left;
+    margin-left: 40px;
+    margin-top: 80px;
+    color: white;
+    font-size: 3px;
+    text-align: center;
+    flex-wrap: wrap;
+    align-content: space-between;
+    font-weight: 5px;
+    padding-top: 3px;
+    box-sizing: border-box;
+
+}
+.page2_image6{
+    width: 100px;
+    height: 150px;
+    background-image: url(../images/矩形\ 38@3x.png);
+    float: right;
+    margin-right:40px;
+    margin-top: 80px;
+    color: white;
+    font-size: 3px;
+    text-align: center;
+    flex-wrap: wrap;
+    align-content: space-between;
+    font-weight: 5px;
+    padding-top: 3px;
+    box-sizing: border-box;
+    
+
+
+}
+.page2_image7{
+    width: 133px;
+    height:195px ;
+    background-color: honeydew;
+    float: right;
+    margin-right: 142px;
+    margin-top:-190px;
+    font-size: 3px;
+    text-align: center;
+    flex-wrap: wrap;
+    align-content: space-between;
+    font-weight: 5px;
+    color: black;
+    padding-top: 20px;
+    box-sizing: border-box;
+
+
+}
+.page2_image8{
+    width: 137px;
+    height: 11px;
+    background-image: url(../images/sub.png);
+    float: left;
+    margin-top: 35px;
+    margin-left: 10px;
+}
+.page2_image9{
+    width:88px ;
+    height: 11px;
+    background-image: url(../images/withnoah.png);
+    margin-top: 290px;
+    margin-left: 10px;
+}
+.page2_image10{
+    width:107px ;
+    height: 7px;
+    background-image: url(../images/产\ \ 学\ \ 融\ \ 合\ \ \ \ \ 协\ \ 同\ \ 育\ \ 人.png);
+    margin-top:-8px;
+    margin-left:260px;
+}
+.page2_image11{
+    width: 16px;
+    height: 9px;
+    background-image: url(../images/123.png);
+    margin-top:70px;
+    margin-left:195px;
+    float: left;
+}
+.page3{
+    width:100vw;
+    height:100vh;
+    background-color: white;
+}
+.page3_image1{
+    width: 107px;
+    height: 54px;
+    background-image: url(../images/1.png);
+    float: left;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.page3_image2{
+    width:100vw;
+    height:60vh;
+    background-image: url(../images/page.png);
+    font-size: 18px;
+    text-align: center;
+    flex-wrap: wrap;
+    align-content: space-between;
+    font-weight: 7px;
+    color: black;
+    padding-top:130px;
+    box-sizing: border-box;
+    
+}
+.page3_image3{
+    width: 305px;
+    height: 200px;
+    background-image: url(../images/1111.jpg);
+    float: right;
+    margin-right: 55px;
+    margin-top: 30px;
+
+}
+.page3_image4{
+    width: 57px;
+    height: 54px;
+    background-image: url(../images/椭圆\ 2.png);
+    float: right;
+    margin-right:175px;
+    margin-top: -130px;
+    /* background-color: black; */
+}
+.page3_image5{
+    width: 25px;
+    height: 29px;
+    background-image: url(../images/play@2x.png);
+    float: right;
+    margin-right: 187px;
+    margin-top:-118px;
+}
+.page3_image6{
+    width: 16px;
+    height: 9px;
+    background-image: url(../images/123.png);
+    float: left;
+    margin-left: 193px;
+    margin-top: 30px;
+
+}
